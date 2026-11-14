@@ -1,0 +1,17 @@
+﻿{
+  "name": "BeautySlot - нлайн апись",
+  "short_name": "BeautySlot",
+  "description": "Сервис онлайн-записи",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e11d48",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
